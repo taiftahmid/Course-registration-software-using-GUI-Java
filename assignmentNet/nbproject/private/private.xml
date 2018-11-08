@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Coding/assignmentNet/src/Beepsound.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/IDiscountStrategy.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/IMapper.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/PersistenceFacade.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/Registration.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/IExtraFeeCalculator.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/AbstractPersistenceMapper.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/DBStorage.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/CourseRDBMapper.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/AcademicExcellenceDiscount.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/CID.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/BDTaxAdapter.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/RegisterCourseController.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/CourseFactory.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/Listener.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/BDTAXCalculator.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/Course.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/BestForStudent.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/RegistrationJFrame.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/AbstractRDBMapper.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/DiscountPolicyFactory.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/DevelopmentFeeCalculator.java</file>
+            <file>file:/D:/Coding/assignmentNet/src/MinorityDiscount.java</file>
+        </group>
+    </open-files>
+</project-private>
